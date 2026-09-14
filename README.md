@@ -13,7 +13,9 @@
 <h2 data-importer="text" align="left"></h2>
 
 ###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/GaReLs/GaReLs/snake-output/snake.svg" alt="Snake animation" />
-
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaReLs/GaReLs/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaReLs/GaReLs/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GaReLs/GaReLs/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 ###
